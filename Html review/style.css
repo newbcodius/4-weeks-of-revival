@@ -1,0 +1,5 @@
+hr.gradient {
+    height: 1px;
+    background-image: linear-gradient(to right, transparent, #ccc, transparent);
+    border: 0;
+}
